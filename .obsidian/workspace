@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "58bf0491c981d76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bff208383ae9b88",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CMU15-445_Database.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d14a94e4c95b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a76b503682bc05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5e6e38609a3f07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3ecc88b5ae78c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247
+  },
+  "right": {
+    "id": "1a3395e1cc3f8027",
+    "type": "split",
+    "children": [
+      {
+        "id": "011e233da944d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466eebd2948084d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CMU15-445_Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a9dab4fa7899ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMU15-445_Database.md"
+              }
+            }
+          },
+          {
+            "id": "a43e641919a0cf8b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "596307e2a3e23381",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "active": "8bff208383ae9b88",
+  "lastOpenFiles": [
+    "CMU15-445_Database.md",
+    "Pasted image 20220627161006.png"
+  ]
+}

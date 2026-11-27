@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "58bf0491c981d76c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a379fdd9407ed702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0683887de37df55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01生活重构/事业/学业/科研方法论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "科研方法论"
+            }
+          },
+          {
+            "id": "0121a35a028e0050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03南瑞/01国培/261012线上培训.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "261012线上培训"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4d14a94e4c95b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a76b503682bc05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5e6e38609a3f07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f3ecc88b5ae78c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d4e5884478a42508",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "1a3395e1cc3f8027",
+    "type": "split",
+    "children": [
+      {
+        "id": "011e233da944d225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a9dab4fa7899ed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作日志.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "a43e641919a0cf8b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "596307e2a3e23381",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "6ec0d1e71b354795",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "31455ee6b25e11ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01生活重构/事业/学业/科研方法论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2d9b540e9eeec306",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.0999755859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d0683887de37df55",
+  "lastOpenFiles": [
+    "01生活重构/事业/学业/声学工具箱.md",
+    "01生活重构/事业/学业/literature tree.md",
+    "01生活重构/事业/学业/Pytorch.md",
+    "attachment.md",
+    "API key.md",
+    "01生活重构/读书笔记/理财/入门/2富爸爸穷爸爸.md",
+    "工作日志.md",
+    "修行.md",
+    "03南瑞/01国培/261012线上培训.md",
+    "03南瑞/01国培/attachments/139d800cfca137ec5e51dd7a20153128.jpg",
+    "03南瑞/01国培/attachments/0ad5b048ca8239503ca5db4e44f7819c.jpg",
+    "03南瑞/01国培/attachments/560077b8ef5c35f2a49e0f42de4412cc.jpg",
+    "03南瑞/01国培/attachments/67e78da93cf3da1fc2153c6dbe18b446.jpg",
+    "03南瑞/01国培/attachments/ba43e425dc82c148247a66a43fda0eb3.jpg",
+    "03南瑞/01国培/attachments/8af29d53e9fa7c585a1e2c3a9daa6158.jpg",
+    "03南瑞/01国培/attachments/1718d9e9e5f676e10cd6a4bf436eb847.jpg",
+    "03南瑞/01国培/attachments/b84dd51be799c56c0a5a15b978132807.jpg",
+    "03南瑞/01国培/attachments/fa6a5213312ec5f07910e0dc30a7f460.jpg",
+    "03南瑞/01国培/attachments/141fd61cee0a7589a1c9c135fbb6a16b.jpg",
+    "03南瑞/01国培/attachments",
+    "03南瑞/01国培",
+    "03南瑞/实训Note.md",
+    "01生活重构/杂项.md",
+    "01生活重构/读书笔记/理财/入门/1小狗钱钱.md",
+    "02lib/工作日志archive.md",
+    "02lib/云南旅行计划.md",
+    "煊.md",
+    "01生活重构/事业/工作/技术栈/vue2/11深入了解组件/11.1组件注册.md",
+    "01生活重构/事业/工作/技术栈/vue2/10组件基础.md",
+    "01生活重构/事业/工作/技术栈/vue2/11深入了解组件",
+    "01生活重构/事业/工作/技术栈/vue2/9表单输入绑定.md",
+    "01生活重构/事业/工作/技术栈/vue2/8事件处理.md",
+    "01生活重构/事业/工作/技术栈/java 基础/04 Number & Math 类 && Character 类.md",
+    "01生活重构/事业/工作/技术栈/java 基础/03 循环 & 条件.md",
+    "01生活重构/事业/工作/技术栈/java 基础/02Java变量类型 && 03Java修饰符.md",
+    "01生活重构/事业/工作/技术栈/vue2/7列表渲染.md",
+    "03南瑞/04杂项/保密、安全专业规章制度调考题库.md",
+    "03南瑞/节日.md",
+    "01生活重构/事业/工作/技术栈/java 基础/attachments",
+    "01生活重构/事业/工作/技术栈/vue2/6条件渲染.md",
+    "01生活重构/事业/工作/技术栈/java 基础",
+    "03南瑞/04杂项",
+    "01生活重构/事业/工作/技术栈/vue2/attachments",
+    "01生活重构/事业/工作/技术栈/vue2",
+    "01生活重构/事业/工作/技术栈",
+    "01生活重构/读书笔记/理财/入门",
+    "01生活重构/事业/学业/毕业论文/实验流程梳理.canvas",
+    "生活重构/事业/学业/毕业论文/阶段进展/未命名.canvas",
+    "01生活重构/事业/学业/毕业论文/详细/base/代码框架图.canvas",
+    "生活重构/事业/学业/literature tree_g.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
