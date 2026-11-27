@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "ff0e41858e0b6941",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9140fdecc1531e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "近日计划.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6afa500cdda72f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb4f09da76d93c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a13b1b4fd32eb5ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6f42e090014d844",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338
+  },
+  "right": {
+    "id": "c11131bafa67fecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63a0c101411cec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c00f552ebe9e28c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "近日计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ad487fdfd3a5d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "近日计划.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "active": "6f9140fdecc1531e",
+  "lastOpenFiles": [
+    "秋招面试准备.md",
+    "近日计划.md",
+    "20200401020933403.png",
+    "面试准备.md",
+    "年级大会.md",
+    "产品文档.md",
+    "OpenGL实验笔记.md",
+    "复习.md",
+    "保研面试准备.md",
+    "533c714157f346f0a337126513863727.png"
+  ]
+}
